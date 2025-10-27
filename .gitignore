@@ -1,0 +1,61 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.log
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+.env/
+bin/
+
+
+# --- Distribution / Packaging ---
+build/
+dist/
+develop-eggs/
+eggs/
+.installed.cfg
+pip-wheel-metadata/
+
+# --- Jupyter / Notebooks ---
+.ipynb_checkpoints/
+
+# --- VSCode / PyCharm ---
+.vscode/
+.idea/
+
+# --- OS-specific files ---
+.DS_Store
+Thumbs.db
+
+# --- Test / Coverage ---
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+pytest_cache/
+
+# --- Environment files ---
+.envrc
+.env.local
+.env.test
+.env.production
+*.env
+
+# --- MongoDB or Database Dumps ---
+*.dump
+*.bak
+*.sql
+*.db

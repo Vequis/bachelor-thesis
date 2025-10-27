@@ -1,0 +1,10 @@
+{
+  "name": "Example Dictionary",
+  "data": {
+    "material": "material",
+    "color": "color",
+    "infill": "infill",
+    "layer_height": "layer_height"
+  },
+  "hash_id": "asdfasdfasdfasdffasdfasdf"
+}
